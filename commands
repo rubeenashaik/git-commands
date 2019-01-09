@@ -16,3 +16,4 @@ git merge
 git remote
 git stash
 git pull
+git push
